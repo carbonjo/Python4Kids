@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Python4Kids
 
 You can use the [editor on GitHub](https://github.com/carbonjo/Python4Kids/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
