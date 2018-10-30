@@ -8,7 +8,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Take material from Runestone and create lessons -- Joaquin: Chapter 1. Anne: Chapter 5.
 
 
-## Python code
+## Python code for first turtle example
 
 ```python
 import turtle
