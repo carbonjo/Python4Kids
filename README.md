@@ -26,6 +26,51 @@ my_turtle.backward(100)       # draw a green line 100 units long
 ## Chapter 5
 
 
+(This goes after my first piece of chapter 5.)
+
+Next skip to this block of code below in chapter 5.5. We should change the loop variable to side instead of _ if possible. Also, in any of the lessons, better to have descriptive variable names for kids, even if they are longer. Also, they'll do better with snake_case than camelCase.
+
+Show this code and ask them what they think is happening. Then explain the loop. 
+
+'''python
+import turtle
+wn = turtle.Screen()
+
+elan = turtle.Turtle()
+
+distance = 50
+for _ in range(10):
+    elan.forward(distance)
+    elan.right(90)
+    distance = distance + 10
+'''
+At this point, I might give them time to play for 10 minutes and then show their creations. Is there an easy way to show their creations to the class? 
+
+Suggestions can be to use some functions on the cheat sheet, like the colors, pensize, distance addition.
+Quicker kids can be challenged to make other polygon spirals and even to make multiple spirals using a for loop and goto etc.
+
+A few minutes into their artwork, I would stop them and just show them the first block in section 5.6.
+
+'''python
+import turtle
+wn = turtle.Screen()
+wn.bgcolor("lightgreen")
+tess = turtle.Turtle()
+tess.color("blue")
+tess.shape("turtle")
+
+dist = 5
+tess.up()                     # this is new
+for _ in range(30):    # start with size = 5 and grow by 2
+    tess.stamp()                # leave an impression on the canvas
+    tess.forward(dist)          # move tess along
+    tess.right(24)              # and turn her
+    dist = dist + 2
+wn.exitonclick()
+'''
+
+We could also show some things like the sierpinski triangle after this. 
+
 
 ### Markdown
 
