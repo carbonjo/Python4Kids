@@ -28,7 +28,7 @@ In the sandbox, show kids how to add a bgcolor, pencolor and pensize for their s
 
 Show next code block from Chapter 5. Ask kids what they think each line does. Ask them to modify to draw a triangle, or for a challenge, the letter A, their choice.
 
-'''python
+```python
 import turtle
 
 wn = turtle.Screen()
@@ -43,7 +43,7 @@ tess.left(120)
 tess.forward(50)
 
 wn.exitonclick()  
-'''
+```
 Have the kids run through the rest of this page if they finish before others. 
 
 
