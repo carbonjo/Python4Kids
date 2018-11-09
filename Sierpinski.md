@@ -1,3 +1,9 @@
+The code below will produce something like this:
+
+<img src="Sierpinski.png"
+     alt="Sierpinski Triangle"
+     style="float: left; margin-right: 10px;" />
+
 ```python
 import turtle
 
