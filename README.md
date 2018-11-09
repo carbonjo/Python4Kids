@@ -8,7 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 Take material from Runestone and create lessons -- Joaquin: Chapter 1. Anne: Chapter 5.
 
 
-## Python code
+## Chapter 5
+Show this turtle code and ask kids about what it does. Have them try it in Runestone chapter 5 and ask them to try to alter it to make a square.
 
 ```python
 import turtle
@@ -23,7 +24,29 @@ my_turtle.down()              # put the tail down
 my_turtle.backward(100)       # draw a green line 100 units long
 ```
 
-## Chapter 5
+In the sandbox, show kids how to add a bgcolor, pencolor and pensize for their square. Maybe have a cheat sheet with a few commands and color strings?
+
+
+Show next code block from Chapter 5. Ask kids what they think each line does. Ask them to modify to draw a triangle, or for a challenge, the letter A, their choice.
+
+'''python
+import turtle
+
+wn = turtle.Screen()
+wn.bgcolor("lightgreen")        # set the window background color
+
+tess = turtle.Turtle()
+tess.color("blue")              # make tess blue
+tess.pensize(3)                 # set the width of her pen
+
+tess.forward(50)
+tess.left(120)
+tess.forward(50)
+
+wn.exitonclick()  
+'''
+Have the kids run through the rest of this page if they finish before others. 
+
 
 
 (This goes after my first piece of chapter 5.)
