@@ -4,6 +4,8 @@ The code below will produce something like this:
      alt="Sierpinski Triangle"
      style="float: left; margin-right: 10px;"   width="200" />
 
+
+
 ```python
 import turtle
 
