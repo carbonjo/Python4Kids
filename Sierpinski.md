@@ -1,6 +1,6 @@
 The code below will produce something like this:
 
-<img src="Sierpinski.png"
+<img src="SierpinskiTriangle.png"
      alt="Sierpinski Triangle"
      style="float: left; margin-right: 10px;"   width="300" />
 
