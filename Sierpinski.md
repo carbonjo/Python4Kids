@@ -1,7 +1,4 @@
-The code below will produce something like this:
-
-
-![alt Sierpinski](SierpinskiTriangle.png)
+The Sierpinski triangle using the "turtle" package.
     
 
 ```python
@@ -49,3 +46,6 @@ def main():
 
 main()
 ```
+
+![alt Sierpinski](SierpinskiTriangle.png)
+
