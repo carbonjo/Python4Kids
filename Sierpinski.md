@@ -1,12 +1,13 @@
 The code below will produce something like this:
 
+```python
 <img src="SierpinskiTriangle.png"
      alt="Sierpinski Triangle"
      style="float: left; margin-right: 10px;"   width="200" />
 
 
 
-```python
+
 import turtle
 
 def drawTriangle(points,color,myTurtle):
