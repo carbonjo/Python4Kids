@@ -2,7 +2,7 @@
 
 
 
-## Chapter 1
+## Chapter 1 (1 hours)
 
 1.1 Algorithms
 [How to make PBJ sandwich](https://www.youtube.com/watch?v=RjHzD2sfWcQ)
@@ -14,6 +14,20 @@
 1.5 practice
 
 1.6 Natural and Formal languages
+
+1.7
+
+1.8
+
+1.9
+
+1.10
+
+1.11
+
+1.12
+
+skip project 1.13
 
 ## Chapter 5
 
