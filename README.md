@@ -1,9 +1,11 @@
 ## Welcome to Python4Kids
 
 
-## Assignment
+
+## Chapter 1
 Take material from Runestone and create lessons -- Joaquin: Chapter 1. Anne: Chapter 5.
 
+[How to make PBJ sandwich](https://www.youtube.com/watch?v=RjHzD2sfWcQ)
 
 ## Chapter 5
 
