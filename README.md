@@ -52,6 +52,8 @@ In the sandbox, show kids how to add a bgcolor, pencolor and pensize for their s
 
 [Python colors](https://matplotlib.org/examples/color/named_colors.html)
 
+Skip first example from 5.5
+
 Show next code block from Chapter 5. Ask kids what they think each line does. Ask them to modify to draw a triangle, or for a challenge, the letter A, their choice.
 
 ```python
