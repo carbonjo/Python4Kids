@@ -37,16 +37,14 @@ skip project 1.13
 Show this turtle code and ask kids about what it does. Have them try it in Runestone chapter 5 and ask them to try to alter it to make a square.
 
 ```python
-import turtle
 
-my_turtle = turtle.Turtle()   # create a turtle
-my_turtle.color('green')      # set the color
-my_turtle.forward(50)         # draw a green line of length 50
-my_turtle.up()                # lift up the tail
-my_turtle.forward(50)          # move forward 50 without drawing
-my_turtle.right(90)           # change direction to the right, left works too
-my_turtle.down()              # put the tail down
-my_turtle.backward(100)       # draw a green line 100 units long
+import turtle             # allows us to use the turtles library
+wn = turtle.Screen()      # creates a graphics window
+alex = turtle.Turtle()    # create a turtle named alex
+alex.forward(150)         # tell alex to move forward by 150 units
+alex.left(90)             # turn by 90 degrees
+alex.forward(75)          # complete the second side of a rectangle
+
 ```
 
 In the sandbox, show kids how to add a bgcolor, pencolor and pensize for their square. Maybe have a cheat sheet with a few commands and color strings?
