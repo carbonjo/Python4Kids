@@ -3,9 +3,17 @@
 
 
 ## Chapter 1
-Take material from Runestone and create lessons -- Joaquin: Chapter 1. Anne: Chapter 5.
 
+1.1 Algorithms
 [How to make PBJ sandwich](https://www.youtube.com/watch?v=RjHzD2sfWcQ)
+
+1.3 What is Python
+
+1.4 How to run Python on the textbook.
+
+1.5 practice
+
+1.6 Natural and Formal languages
 
 ## Chapter 5
 
