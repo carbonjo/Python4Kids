@@ -52,7 +52,7 @@ In the sandbox, show kids how to add a bgcolor, pencolor and pensize for their s
 
 [Python colors](https://matplotlib.org/examples/color/named_colors.html)
 
-[Kahoot quiz about turtle graphics] ( https://play.kahoot.it/#/k/3fed4f34-059c-4b90-96a1-736a8b20ea3a )
+[Kahoot quiz about turtle graphics](https://play.kahoot.it/#/k/3fed4f34-059c-4b90-96a1-736a8b20ea3a)
 
 Skip first example from 5.5
 
