@@ -4,6 +4,8 @@
 
 ## Chapter 1 (1 hour)
 
+[Kahoots survey about programming background](https://play.kahoot.it/#/k/43814549-74f6-4d68-8410-fd7e12da148d)
+
 1.1 Algorithms
 [How to make PBJ sandwich](https://www.youtube.com/watch?v=RjHzD2sfWcQ)
 
